@@ -1,0 +1,286 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "mix",
+        "AdMobId": "pub-3990429855526149",
+
+        "BannerAdmob": "ca-app-pub-3990429855526149/2860068644",
+        "InterstitialAdmob": "ca-app-pub-3990429855526149/3273688536",
+        "NativeAdmob": "ca-app-pub-3990429855526149/4395198514",
+
+        "BannerFacebook": "283244333993719_283245170660302",
+        "InterstitialFacebook": "283244333993719_283245113993641",
+        "NativeFacebook": "283244333993719_283245280660291"
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "The 1ST Tip",
+        "image": "list1.jpg"
+      },
+      {
+        "title": "The 2ND Tip",
+        "image": "list2.jpg"
+      },
+      {
+        "title": "The 3TH Tip",
+        "image": "list3.jpg"
+      },
+      {
+        "title": "The 4TH Tip",
+        "image": "list4.jpg"
+      }
+
+
+
+    ],
+
+    "content1": [
+      {
+        "ordered": "text_image",
+        "color": "#f56342",
+        "style": "italic",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "The  Ps4 and PS5 application Emulator Guide And Tip is to provide the platforms on which Guide is available.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#f56342",
+        "style": "italic",
+        "gravity": "left",
+        "left": "12",
+        "text_size": "21",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "content1/2.jpg",
+        "text": " The app will let you know how to use it and how to use guide for tv, mobile and laptop/computer.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#f56342",
+        "style": "italic",
+        "gravity": "left",
+        "left": "12",
+        "text_size": "21",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "content1/chapter2.jpg",
+        "text": "The app will let you know how to use it and how to use guide for tv, mobile and laptop/computer.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#f56342",
+        "style": "italic",
+        "gravity": "center",
+        "left": "12",
+        "text_size": "21",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "content1/chapter3.jpg",
+        "text": "The PS4 AND PS5 best tip and tricks to use for both the old and new users is listed. users can use this Live apps online as well as shows",
+        "isNative": "false"
+      }
+
+
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#2596be",
+        "style": "italic",
+        "gravity": "center",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "This guide for PS3 PS5 Playstation is created for the reason to help the user of Live while they are trying to understand how works such tools as: remote, control, timer, tv, streaming, brightness.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#2596be",
+        "style": "italic",
+        "gravity": "center",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "content2/2.jpg",
+        "text": "This ps4 ps5 guide consists from the important tips for episodes, movies, cast, shows, unblocked and 4k clues and advises.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#2596be",
+        "style": "italic",
+        "gravity": "center",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "content2/chapter3.jpg",
+        "text": "This app PS4 PS5 helps to clarify all the doubt about fans and helps you app",
+        "isNative": "true"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#2596be",
+        "style": "italic",
+        "gravity": "center",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "content2/chapter4.jpg",
+        "text": "After downloading this app you will understand everything about the app so you can use fan app perfectly",
+        "isNative": "false"
+      }
+
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#2596be",
+        "style": "italic",
+        "gravity": "center",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "let's start with some games",
+        "isNative": "false"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#2596be",
+        "style": "italic",
+        "gravity": "center",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "content3/2.jpg",
+        "text": "\nFeature\n10 great PS4 and PS5 racing games we’d like to see on PlayStation Plus Extra\nBy Traxion\nPosted on March 29, 2022\n10 great PS4 and PS5 racing games we’d like to see on PlayStation Plus Extra\t\n\nPlayStation Plus Extra will launch in June 2022 as a new subscription gaming library, including up to 400 PS4 and PS5 games. Here’s what we’d like to see.\n\nBy Justin Melillo and Thomas Harrison-Lord\n\nA new, tiered subscription model will replace the current PlayStation Plus and PlayStation Now programs currently offered by Sony starting in June. Three tiers of the new PlayStation Plus – Essential, Extra, and Premium – will not only incorporate the previous services but also bring new perks of membership to the program. \n\nPlayStation Plus Essential is the same program that the original PlayStation Plus was. As for PlayStation Plus Extra, you get the Essential tier plus a catalogue of up to 400 PlayStation 4 and PlayStation 5 games that can be downloaded and played.  \nPlayStation Plus 2022\n\nFinally, the PlayStation Premium gives players the Essential and Extra tiers and then some. Up to 340 original PlayStation, PlayStation 2, PlayStation 3 and PlayStation Portable (PSP) titles can be downloaded or streamed, depending on the title. Games can also be streamed on PS4, PS5, or even PC.\n\nThe Premium tier also offers “time-limited game trials” to allow customers a chance to try before they buy. \n\nPricing can be found in the chart below: \nSubscription Tier \tMonthly Price \tQuarterly Price \tYearly Price \nPlayStation Plus Essential \t$9.99 / £6.99 \t$24.99 / £19.99 \t$59.99 / £49.99 \nPlayStation Plus Extra \t$14.99 / £10.99 \t$39.99 / £31.99 \t$99.99 / £83.99 \nPlayStation Plus Premium \t$17.99 / £13.49 \t$49.99 / £39.99 \t$119.99 / £99.99 \n\n \nFrom the announcement, the ‘PlayStation Now’ service is said to be “transitioning into the new PlayStation Plus offering and will no longer be available as a standalone service”. If you have PlayStation Now, you’ll be brought into the Premium tier, and you will not have an increase in your subscription fees at launch. \n\nThis is all well and good, but the included games will be the service’s key to success. \n\nThe only confirmed titles so far for the ‘Extra’ tier are Death Stranding, God of War, Marvel’s Spider-Man, Marvel’s Spider-Man: Miles Morales, Mortal Kombat 11 and Returnal. Therefore, it’s far too early to judge if the new PlayStation Plus structure will attract an audience or not. \nReturnal PlayStation Plus Extra\n\nReturnal, though, for example, is a recent PlayStation 5 exclusive that would not have appeared on the current incarnation of the subscription service any time soon. \n\nIt provides hope for the rest of the line-up. With that being said, we wouldn’t expect Gran Turismo 7 to be there from launch. In addition, with the PlayStation, PS2, PSP and streaming PS3 titles part of the PlayStation Plus Premium tier only, we’ll cover those in a separate article. \n\nConsidering these factors, here are 10 great racing games across PS4 and PS5 we’d like to see on PlayStation Plus Extra. We believe each is a realistic addition, so we’re not reaching for the moon and only making it to Glasgow. Let us know what you’d like to see in the comments below. \nHot Wheels Unleashed ",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#2596be",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "content3/chapter3.jpg",
+        "text": "WRC 10 : The official game of the FIA World Rally Championship features point-to-point driving against the clock, a slew of real-world drivers, teams and stages plus some of the sweetest rally-game handling to ever exist. \n\nThe audio is weaker than a jellyfish and the graphical fidelity can leave a lot to be desired. But, plug in a wheel, get in the flow, soak up an edge-of-the-seat driving experience.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#2596be",
+        "style": "italic",
+        "gravity": "center",
+        "left": "11",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "content4/chapter1.jpg",
+        "text": "Crucially, WRC 10 was revealed to the world in April of 2021, so this current game is nearing the end of its relevant shelf life. In addition, the 2022 WRC game will be developer Kylotonn’s last. What better way of building hype for the upcoming new game, that hopefully bows out on a high, than by including the 10th instalment with PlayStation Plus Extra?",
+        "isNative": "false"
+      }
+
+
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#2596be",
+        "style": "italic",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "content4/1.jpg",
+        "text": "Ride 4",
+        "isNative": "false"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#2596be",
+        "style": "italic",
+        "gravity": "center",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "content4/2.jpg",
+        "text": " Predominately road motorcycle-based – but with some superbike racing models – its transition from PS4 to PS5 was spectacular with best-in-class graphics, loading times quicker than Usain Bolt after a double-shot latte an extensive career mode. There’s also an optional Season Pass of additional bikes. ",
+        "isNative": "true"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#2596be",
+        "style": "italic",
+        "gravity": "center",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "content4/chapter3.jpg",
+        "text": " SRX: The Game  : Another official game of a real-world series, the Superstar Racing Experience was a brand-new stock car race series that brought together current and former motorsport stars and this was, funnily enough, the matching game. \n\nIt doesn’t reinvent the wheel and is using some aged technology beneath the skin – Unity for a racing game is always a risk – but that doesn’t mean it can’t be simple fun. There are even additional classes to flesh out the gaming experience. ",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#2596be",
+        "style": "italic",
+        "gravity": "center",
+        "left": "10",
+        "text_size": "20",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "content4/chapter4.jpg",
+        "text": "\nFeature\n10 great PS4 and PS5 racing games we’d like to see on PlayStation Plus Extra\nBy Traxion\nPosted on March 29, 2022\n10 great PS4 and PS5 racing games we’d like to see on PlayStation Plus Extra\t\n\nPlayStation Plus Extra will launch in June 2022 as a new subscription gaming library, including up to 400 PS4 and PS5 games. Here’s what we’d like to see.\n\nBy Justin Melillo and Thomas Harrison-Lord\n\nA new, tiered subscription model will replace the current PlayStation Plus and PlayStation Now programs currently offered by Sony starting in June. Three tiers of the new PlayStation Plus – Essential, Extra, and Premium – will not only incorporate the previous services but also bring new perks of membership to the program. \n\nPlayStation Plus Essential is the same program that the original PlayStation Plus was. As for PlayStation Plus Extra, you get the Essential tier plus a catalogue of up to 400 PlayStation 4 and PlayStation 5 games that can be downloaded and played.  \nPlayStation Plus 2022\n\nFinally, the PlayStation Premium gives players the Essential and Extra tiers and then some. Up to 340 original PlayStation, PlayStation 2, PlayStation 3 and PlayStation Portable (PSP) titles can be downloaded or streamed, depending on the title. Games can also be streamed on PS4, PS5, or even PC.\n\nThe Premium tier also offers “time-limited game trials” to allow customers a chance to try before they buy. \n\nPricing can be found in the chart below: \nSubscription Tier \tMonthly Price \tQuarterly Price \tYearly Price \nPlayStation Plus Essential \t$9.99 / £6.99 \t$24.99 / £19.99 \t$59.99 / £49.99 \nPlayStation Plus Extra \t$14.99 / £10.99 \t$39.99 / £31.99 \t$99.99 / £83.99 \nPlayStation Plus Premium \t$17.99 / £13.49 \t$49.99 / £39.99 \t$119.99 / £99.99 \n\n \nFrom the announcement, the ‘PlayStation Now’ service is said to be “transitioning into the new PlayStation Plus offering and will no longer be available as a standalone service”. If you have PlayStation Now, you’ll be brought into the Premium tier, and you will not have an increase in your subscription fees at launch. \n\nThis is all well and good, but the included games will be the service’s key to success. \n\nThe only confirmed titles so far for the ‘Extra’ tier are Death Stranding, God of War, Marvel’s Spider-Man, Marvel’s Spider-Man: Miles Morales, Mortal Kombat 11 and Returnal. Therefore, it’s far too early to judge if the new PlayStation Plus structure will attract an audience or not. \nReturnal PlayStation Plus Extra\n\nReturnal, though, for example, is a recent PlayStation 5 exclusive that would not have appeared on the current incarnation of the subscription service any time soon. \n\nIt provides hope for the rest of the line-up. With that being said, we wouldn’t expect Gran Turismo 7 to be there from launch. In addition, with the PlayStation, PS2, PSP and streaming PS3 titles part of the PlayStation Plus Premium tier only, we’ll cover those in a separate article. \n\nConsidering these factors, here are 10 great racing games across PS4 and PS5 we’d like to see on PlayStation Plus Extra. We believe each is a realistic addition, so we’re not reaching for the moon and only making it to Glasgow. Let us know what you’d like to see in the comments below. \nHot Wheels Unleashed \nThe McLaren Senna and Chevrolet Corvette are adorable in Hot Wheels Unleashed\n\nCritically acclaimed, fun to drive and visually stunning, Hot Wheels Unleashed is exactly the sort of great racing game that deserves your attention. Crucially, it was profitable from only its second day in existence, has sold over one million copies and is currently part-way through its second of three downloadable content seasons. \n\nWith the game easily in the black, and more downloadable content sales now a clear goal, adding Unleashed onto a subscription service at this point not only delivers an engaging, accessible, racing game to players, but also helps build a larger potential DLC-purchasing audience. \nWRC 10 \nWRC 10 Karlstad Toyota Yaris WRC\n\nThe official game of the FIA World Rally Championship features point-to-point driving against the clock, a slew of real-world drivers, teams and stages plus some of the sweetest rally-game handling to ever exist. \n\nThe audio is weaker than a jellyfish and the graphical fidelity can leave a lot to be desired. But, plug in a wheel, get in the flow, soak up an edge-of-the-seat driving experience. \n\nCrucially, WRC 10 was revealed to the world in April of 2021, so this current game is nearing the end of its relevant shelf life. In addition, the 2022 WRC game will be developer Kylotonn’s last. What better way of building hype for the upcoming new game, that hopefully bows out on a high, than by including the 10th instalment with PlayStation Plus Extra? \nGT Sport \nHyundai Genesis Gr.4 GT Sport\n\nWith Gran Turismo 7 out in the wild and delivering some of the best vehicle handling, weather condition and visual experiences in the genre – and hopefully some improved lobbies and in-game economy soon – the previous incumbent, GT Sport, has to this day never appeared on PlayStation Plus. \n\nWhich is slightly odd. But now this could be an interesting way of getting people into Gran Turismo, whetting their appetite and upselling them to 7. \n\nThe only catch is that GT Sport lacks a comprehensive single-player experience and the superlative Sport Mode seems to be lacking updates since earlier this month. Funny that… \nInertial Drift \nNew Roton Boba UHT car now in Inertial Drift\n\nDon’t sleep on this unique take on a sideways driving experience. Inertial Drift, created by the diminutive team at Belfast-based Level 91 Entertainment was recently reinvigorated with a spate of revised car models and a new game mode, with more content hopefully coming in 2022. \n\nNot only does it drive like nothing else due to its use of both analogue sticks, but it also looks unique too with its neon lights and JDM-inspired vehicles. \n\nAll of these updates so far have been free additions. What the plan is for the rest of the year remains unclear, but either way, adding it to Plus Extra – that’s still a weird name – will hopefully shine a light on one of the most underrated racers around. \nRide 4 \nMr Martini Ducati Flashback II Ride 4\n\nWith the motorcycle development teams at Milestone currently hard at work on the upcoming MotoGP 22 and alleged WorldSBK, now is a good time to revisit Ride 4. \n\nPredominately road motorcycle-based – but with some superbike racing models – its transition from PS4 to PS5 was spectacular with best-in-class graphics, loading times quicker than Usain Bolt after a double-shot latte an extensive career mode. There’s also an optional Season Pass of additional bikes. \n\nIt was the culmination of six years of work, starting with the original Ride game in 2015, finally polishing the title to the point where it achieved its intended goal of being ‘the Gran Turismo of two wheels’.\n\nLow-key, Ride 4 is also a showcase for PS5 ownership and an essential racing game that’s regularly reduced in sales. The time is right. \nSRX: The Game \nSRX : The Game drift\n\nAnother official game of a real-world series, the Superstar Racing Experience was a brand-new stock car race series that brought together current and former motorsport stars and this was, funnily enough, the matching game. \n\nIt doesn’t reinvent the wheel and is using some aged technology beneath the skin – Unity for a racing game is always a risk – but that doesn’t mean it can’t be simple fun. There are even additional classes to flesh out the gaming experience. \n\nCreated by Monster Games, the studio was purchased by PC sim racing platform iRacing earlier this year. We fully appreciate that giving stuff away for free or a nominal fee from Sony isn’t a solid business model for most studios, but if iRacing would like to see its recent acquisition in the hands of more players ahead of future plans, perhaps a timely inclusion of the PS4 and PS5 version here would help. \nRedout ",
+        "isNative": "false"
+      }
+
+
+    ]
+
+
+
+  }
+}
